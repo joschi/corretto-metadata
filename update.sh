@@ -52,13 +52,21 @@ function download {
 	local ext="${4}"
 	local filename
 	filename="$(archive_filename "${version}" "${os}" "${arch}" "${ext}")"
-	local url="https://d3pxv6yz143wms.cloudfront.net/${version}/${filename}"
+	local url
 	local metadata_file="${METADATA_DIR}/${filename}.json"
 	local archive="${TEMP_DIR}/${filename}"
+
 	if [[ -f "${metadata_file}" ]]
 	then
 		echo "Skipping ${filename}"
 	else
+		if curl --silent --show-error --fail --head "https://corretto.aws/downloads/resources/${version}/${filename}"
+		then
+			url="https://corretto.aws/downloads/resources/${version}/${filename}"
+		else
+			url="https://d3pxv6yz143wms.cloudfront.net/${version}/${filename}"
+		fi
+
 		curl --silent --show-error --fail -w "%{filename_effective}\n" --output "${archive}" "${url}" || return 1
 		local MD5
 		MD5=$(md5sum "${archive}" | cut -f 1 -d ' ')
