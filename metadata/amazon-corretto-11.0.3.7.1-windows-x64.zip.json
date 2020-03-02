@@ -1,0 +1,16 @@
+{
+  "filename": "amazon-corretto-11.0.3.7.1-windows-x64.zip",
+  "url": "https://d3pxv6yz143wms.cloudfront.net/11.0.3.7.1/amazon-corretto-11.0.3.7.1-windows-x64.zip",
+  "md5": "fb6f82a835928f6dfe38c9f8a2c1824d",
+  "md5_file": "amazon-corretto-11.0.3.7.1-windows-x64.zip.md5",
+  "sha1": "55775b5369dfe44e60523dbf05af33b6218e85a0",
+  "sha1_file": "amazon-corretto-11.0.3.7.1-windows-x64.zip.sha1",
+  "sha256": "bb90da7af62cf8380b533e5d74e8c3300d85657d2d450a461f9d754e9a34c5ba",
+  "sha256_file": "amazon-corretto-11.0.3.7.1-windows-x64.zip.sha256",
+  "sha512": "8b1a6c4457d6b01fa7c4e0b8d5fa1d2180562ed51bd789546c91e29909ae86349e32e0d24783767e75ed9260e83b5b2db1ad5958568c07facdfa077190808b29",
+  "sha512_file": "amazon-corretto-11.0.3.7.1-windows-x64.zip.sha512",
+  "version": "11.0.3.7.1",
+  "os": "windows",
+  "arch": "x64",
+  "archive_type": "zip"
+}
