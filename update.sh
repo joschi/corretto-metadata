@@ -50,7 +50,8 @@ function download {
 	local os="${2}"
 	local arch="${3}"
 	local ext="${4}"
-	local filename="$(archive_filename "${version}" "${os}" "${arch}" "${ext}")"
+	local filename
+	filename="$(archive_filename "${version}" "${os}" "${arch}" "${ext}")"
 	local url="https://d3pxv6yz143wms.cloudfront.net/${version}/${filename}"
 	local metadata_file="${METADATA_DIR}/${filename}.json"
 	local archive="${TEMP_DIR}/${filename}"
@@ -59,13 +60,17 @@ function download {
 		echo "Skipping ${filename}"
 	else
 		curl --silent --show-error --fail -w "%{filename_effective}\n" --output "${archive}" "${url}" || return 1
-		local MD5=$(md5sum "${archive}" | cut -f 1 -d ' ')
+		local MD5
+		MD5=$(md5sum "${archive}" | cut -f 1 -d ' ')
 		echo "${MD5}  ${filename}" > "${CHECKSUM_DIR}/${filename}.md5"
-		local SHA1=$(sha1sum "${archive}"| cut -f 1 -d ' ') 
+		local SHA1
+		SHA1=$(sha1sum "${archive}"| cut -f 1 -d ' ') 
 		echo "${SHA1}  ${filename}" > "${CHECKSUM_DIR}/${filename}.sha1"
-		local SHA256=$(sha256sum "${archive}" | cut -f 1 -d ' ')
+		local SHA256
+		SHA256=$(sha256sum "${archive}" | cut -f 1 -d ' ')
 		echo "${SHA256}  ${filename}" > "${CHECKSUM_DIR}/${filename}.sha256"
-		local SHA512=$(sha512sum "${archive}" | cut -f 1 -d ' ')
+		local SHA512
+		SHA512=$(sha512sum "${archive}" | cut -f 1 -d ' ')
 		echo "${SHA512}  ${filename}" > "${CHECKSUM_DIR}/${filename}.sha512"
 
 		local json="{
