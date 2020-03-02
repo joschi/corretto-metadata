@@ -127,6 +127,6 @@ do
 	do
 		DIR="${METADATA_DIR}/${OS}/${ARCH}"
 		ensure_directory "${DIR}"
-		jq -M -S ".[] | select(.os == \"${os}\") | select(.arch == \"${arch}\")" "${METADATA_DIR}/releases.json" > "${DIR}/releases.json"
+		jq -M -S ".[] | select(.os == \"${OS}\") | select(.arch == \"${ARCH}\")" "${METADATA_DIR}/releases.json" > "${DIR}/releases.json"
 	done
 done
