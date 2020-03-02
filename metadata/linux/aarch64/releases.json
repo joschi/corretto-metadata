@@ -49,6 +49,22 @@
 {
   "arch": "aarch64",
   "archive_type": "tar.gz",
+  "filename": "amazon-corretto-11.0.6.10.1-linux-aarch64.tar.gz",
+  "md5": "4432b9691705ec7540cf5bb5cf3fcb81",
+  "md5_file": "amazon-corretto-11.0.6.10.1-linux-aarch64.tar.gz.md5",
+  "os": "linux",
+  "sha1": "a66dfc92791876e4bd065245887b44cee0453241",
+  "sha1_file": "amazon-corretto-11.0.6.10.1-linux-aarch64.tar.gz.sha1",
+  "sha256": "37d2292bfca4c741b7ad1e597ecfedf3cbeb0d70e99e8c571e02fed7d3ee78ff",
+  "sha256_file": "amazon-corretto-11.0.6.10.1-linux-aarch64.tar.gz.sha256",
+  "sha512": "de2f7e79bfba555682cb2b3c6eac860fcf394a9f7a1a781d603ccc92d5637e2300593ed235be8687e3f87aaee703647e6b77ca2fab81758121ebea08d2b627bb",
+  "sha512_file": "amazon-corretto-11.0.6.10.1-linux-aarch64.tar.gz.sha512",
+  "url": "https://corretto.aws/downloads/resources/11.0.6.10.1/amazon-corretto-11.0.6.10.1-linux-aarch64.tar.gz",
+  "version": "11.0.6.10.1"
+}
+{
+  "arch": "aarch64",
+  "archive_type": "tar.gz",
   "filename": "amazon-corretto-8.212.04.3-linux-aarch64.tar.gz",
   "md5": "38d3f256b5639a3aa6487069b665c069",
   "md5_file": "amazon-corretto-8.212.04.3-linux-aarch64.tar.gz.md5",
@@ -93,4 +109,36 @@
   "sha512_file": "amazon-corretto-8.232.09.1-linux-aarch64.tar.gz.sha512",
   "url": "https://d3pxv6yz143wms.cloudfront.net/8.232.09.1/amazon-corretto-8.232.09.1-linux-aarch64.tar.gz",
   "version": "8.232.09.1"
+}
+{
+  "arch": "aarch64",
+  "archive_type": "tar.gz",
+  "filename": "amazon-corretto-8.242.07.1-linux-aarch64.tar.gz",
+  "md5": "fb263738ce4be4c6c7a75a8ffc46a021",
+  "md5_file": "amazon-corretto-8.242.07.1-linux-aarch64.tar.gz.md5",
+  "os": "linux",
+  "sha1": "313a6a684927855e493a12c3c7e9cd2fb1498440",
+  "sha1_file": "amazon-corretto-8.242.07.1-linux-aarch64.tar.gz.sha1",
+  "sha256": "3e1345348001ed87ae1c10889d37253debe735cbd49e3f08501d6a53b946667c",
+  "sha256_file": "amazon-corretto-8.242.07.1-linux-aarch64.tar.gz.sha256",
+  "sha512": "ab90f73f3d382cb425ecbbf16088216ca213f4d05f4e7f970f20c9061a426092287003203d66c6b1237671ce5bda9405c740279d09aac116e44e18d110f22cea",
+  "sha512_file": "amazon-corretto-8.242.07.1-linux-aarch64.tar.gz.sha512",
+  "url": "https://corretto.aws/downloads/resources/8.242.07.1/amazon-corretto-8.242.07.1-linux-aarch64.tar.gz",
+  "version": "8.242.07.1"
+}
+{
+  "arch": "aarch64",
+  "archive_type": "tar.gz",
+  "filename": "amazon-corretto-8.242.08.1-linux-aarch64.tar.gz",
+  "md5": "4e2dce964da1689e2a6bf19ccadc21af",
+  "md5_file": "amazon-corretto-8.242.08.1-linux-aarch64.tar.gz.md5",
+  "os": "linux",
+  "sha1": "58ad4f96cf6d70368c158784c2552400524ab616",
+  "sha1_file": "amazon-corretto-8.242.08.1-linux-aarch64.tar.gz.sha1",
+  "sha256": "87a8565b0d5cfd8fac012b77d06576a8a73f3b86999b9e30e9cb059deb9eee57",
+  "sha256_file": "amazon-corretto-8.242.08.1-linux-aarch64.tar.gz.sha256",
+  "sha512": "0b7dadbeb255b840b696e61199cf56214161bd7f5b1e0f3303c05d159c7305249cfbda343560f35f074636f7abac4c795761bac02917212412bd2bacccc50c9e",
+  "sha512_file": "amazon-corretto-8.242.08.1-linux-aarch64.tar.gz.sha512",
+  "url": "https://corretto.aws/downloads/resources/8.242.08.1/amazon-corretto-8.242.08.1-linux-aarch64.tar.gz",
+  "version": "8.242.08.1"
 }

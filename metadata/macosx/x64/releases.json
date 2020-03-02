@@ -193,6 +193,38 @@
 {
   "arch": "x64",
   "archive_type": "pkg",
+  "filename": "amazon-corretto-11.0.6.10.1-macosx-x64.pkg",
+  "md5": "f43d490982e207e4fd4b518b82fc148e",
+  "md5_file": "amazon-corretto-11.0.6.10.1-macosx-x64.pkg.md5",
+  "os": "macosx",
+  "sha1": "ca88ed9dff687256dfa56bc51c713ec8459f39fa",
+  "sha1_file": "amazon-corretto-11.0.6.10.1-macosx-x64.pkg.sha1",
+  "sha256": "03d832483d32de96125a56d40a1b8320f91deb0c0a422552c520cb10b9f779c5",
+  "sha256_file": "amazon-corretto-11.0.6.10.1-macosx-x64.pkg.sha256",
+  "sha512": "30c2571e04dcc0833bef3194a68b6a2fb88055088cfef30106dc5d6ae432f400637107642ff04f57abca276b0b9a3fdd1a0b9408ebccd86f0d36bcc6d297b6c4",
+  "sha512_file": "amazon-corretto-11.0.6.10.1-macosx-x64.pkg.sha512",
+  "url": "https://corretto.aws/downloads/resources/11.0.6.10.1/amazon-corretto-11.0.6.10.1-macosx-x64.pkg",
+  "version": "11.0.6.10.1"
+}
+{
+  "arch": "x64",
+  "archive_type": "tar.gz",
+  "filename": "amazon-corretto-11.0.6.10.1-macosx-x64.tar.gz",
+  "md5": "f7d8c1929a5e3d19489f0396ed53b270",
+  "md5_file": "amazon-corretto-11.0.6.10.1-macosx-x64.tar.gz.md5",
+  "os": "macosx",
+  "sha1": "0251db8cd9d535ee3ffcca3aef99bae4901540eb",
+  "sha1_file": "amazon-corretto-11.0.6.10.1-macosx-x64.tar.gz.sha1",
+  "sha256": "8e33d9e9cc2eace8f36a44102ef91ee7e3489ea8780d6884e56b22519606d22e",
+  "sha256_file": "amazon-corretto-11.0.6.10.1-macosx-x64.tar.gz.sha256",
+  "sha512": "6b1f9d7fb31968c716f3c154502c1e7a4063014a7c843fcfb2410b58981c39dc21b5d1ad53822e24b4e46d52d44b3da8229ac106b142b3fc636df52e7c4739ef",
+  "sha512_file": "amazon-corretto-11.0.6.10.1-macosx-x64.tar.gz.sha512",
+  "url": "https://corretto.aws/downloads/resources/11.0.6.10.1/amazon-corretto-11.0.6.10.1-macosx-x64.tar.gz",
+  "version": "11.0.6.10.1"
+}
+{
+  "arch": "x64",
+  "archive_type": "pkg",
   "filename": "amazon-corretto-8.202.08.2-macosx-x64.pkg",
   "md5": "c40e881dc148bce23a546f0182919abc",
   "md5_file": "amazon-corretto-8.202.08.2-macosx-x64.pkg.md5",
@@ -349,4 +381,68 @@
   "sha512_file": "amazon-corretto-8.232.09.2-macosx-x64.tar.gz.sha512",
   "url": "https://d3pxv6yz143wms.cloudfront.net/8.232.09.2/amazon-corretto-8.232.09.2-macosx-x64.tar.gz",
   "version": "8.232.09.2"
+}
+{
+  "arch": "x64",
+  "archive_type": "pkg",
+  "filename": "amazon-corretto-8.242.07.1-macosx-x64.pkg",
+  "md5": "54c95284697ce53235ae91997de781e1",
+  "md5_file": "amazon-corretto-8.242.07.1-macosx-x64.pkg.md5",
+  "os": "macosx",
+  "sha1": "2fb12ae1819afe41e44e4bb4a8474968e60143c0",
+  "sha1_file": "amazon-corretto-8.242.07.1-macosx-x64.pkg.sha1",
+  "sha256": "12b765736520d91a8084837ac39c80bcb8e08cb12792d9e6e524239d1b085779",
+  "sha256_file": "amazon-corretto-8.242.07.1-macosx-x64.pkg.sha256",
+  "sha512": "bdbc5c739e8d6d5526697eede5ebd76e0c07f69878beb13da94379c1f1244109c41e4e358c196e4b9a19eac5e2b1feace558ecb2f993dafc45e96c6f88996312",
+  "sha512_file": "amazon-corretto-8.242.07.1-macosx-x64.pkg.sha512",
+  "url": "https://corretto.aws/downloads/resources/8.242.07.1/amazon-corretto-8.242.07.1-macosx-x64.pkg",
+  "version": "8.242.07.1"
+}
+{
+  "arch": "x64",
+  "archive_type": "tar.gz",
+  "filename": "amazon-corretto-8.242.07.1-macosx-x64.tar.gz",
+  "md5": "02e25757f7747eb78e9c74dbb742f894",
+  "md5_file": "amazon-corretto-8.242.07.1-macosx-x64.tar.gz.md5",
+  "os": "macosx",
+  "sha1": "ece98142f552eab4c5e64b20fbca3f144cc8a370",
+  "sha1_file": "amazon-corretto-8.242.07.1-macosx-x64.tar.gz.sha1",
+  "sha256": "13870b5d6124ac78654197acc403e6c628c2c6ad5e52d3f1cd61480242cd642f",
+  "sha256_file": "amazon-corretto-8.242.07.1-macosx-x64.tar.gz.sha256",
+  "sha512": "107981e8e60f5d4783742f8f96f0d80809a3373f8e4d4d8af80ba2752e7589fac2be6eb87a9a5d6924c9071365ca21ef2b0d742e7427524663de34748ec29988",
+  "sha512_file": "amazon-corretto-8.242.07.1-macosx-x64.tar.gz.sha512",
+  "url": "https://corretto.aws/downloads/resources/8.242.07.1/amazon-corretto-8.242.07.1-macosx-x64.tar.gz",
+  "version": "8.242.07.1"
+}
+{
+  "arch": "x64",
+  "archive_type": "pkg",
+  "filename": "amazon-corretto-8.242.08.1-macosx-x64.pkg",
+  "md5": "7e336407a1a65322cc0d97d478ab3387",
+  "md5_file": "amazon-corretto-8.242.08.1-macosx-x64.pkg.md5",
+  "os": "macosx",
+  "sha1": "0614f923a01859b943b410468b17546d47d50ec0",
+  "sha1_file": "amazon-corretto-8.242.08.1-macosx-x64.pkg.sha1",
+  "sha256": "bf45f7e741124ef0086e31261c93b5462ac490f350a47c988ad8c41a70d01a26",
+  "sha256_file": "amazon-corretto-8.242.08.1-macosx-x64.pkg.sha256",
+  "sha512": "27da23a8ae1534efd949ab4dfe92f2a02895f0595f9ef107fd6d45b17b72482784562475da20a750ca7b5dfc0839461b778ac8ea584dae5d12e33e11d04da03f",
+  "sha512_file": "amazon-corretto-8.242.08.1-macosx-x64.pkg.sha512",
+  "url": "https://corretto.aws/downloads/resources/8.242.08.1/amazon-corretto-8.242.08.1-macosx-x64.pkg",
+  "version": "8.242.08.1"
+}
+{
+  "arch": "x64",
+  "archive_type": "tar.gz",
+  "filename": "amazon-corretto-8.242.08.1-macosx-x64.tar.gz",
+  "md5": "72431ff41dfe6be662591ace344c8bb9",
+  "md5_file": "amazon-corretto-8.242.08.1-macosx-x64.tar.gz.md5",
+  "os": "macosx",
+  "sha1": "8829889b4c90943c1eab41f1885976fe5d82391b",
+  "sha1_file": "amazon-corretto-8.242.08.1-macosx-x64.tar.gz.sha1",
+  "sha256": "95635b7c2d50a2059827e8863a6aba757811fcd873d52fa5d3f17967e6a6002a",
+  "sha256_file": "amazon-corretto-8.242.08.1-macosx-x64.tar.gz.sha256",
+  "sha512": "a95ce5699f8ed84b1b394cddee585cea0acbb6697e7cf1092b5df5a7a2194679eebf745dc33adaafa44dc2084cf47f364a083d7cafcf7214d322263e588c4fc9",
+  "sha512_file": "amazon-corretto-8.242.08.1-macosx-x64.tar.gz.sha512",
+  "url": "https://corretto.aws/downloads/resources/8.242.08.1/amazon-corretto-8.242.08.1-macosx-x64.tar.gz",
+  "version": "8.242.08.1"
 }
