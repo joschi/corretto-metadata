@@ -1038,5 +1038,37 @@
     "sha512_file": "amazon-corretto-8.242.08.1-macosx-x64.tar.gz.sha512",
     "url": "https://corretto.aws/downloads/resources/8.242.08.1/amazon-corretto-8.242.08.1-macosx-x64.tar.gz",
     "version": "8.242.08.1"
+  },
+  {
+    "arch": "x64",
+    "archive_type": "pkg",
+    "filename": "amazon-corretto-8.242.08.2-macosx-x64.pkg",
+    "md5": "f71d46f553ccb04c198a949e804da1ed",
+    "md5_file": "amazon-corretto-8.242.08.2-macosx-x64.pkg.md5",
+    "os": "macosx",
+    "sha1": "7305d4e237f3ba8da33f4a7addfe1585e152091a",
+    "sha1_file": "amazon-corretto-8.242.08.2-macosx-x64.pkg.sha1",
+    "sha256": "61c31c07b8ce4266ca609dbc76de4260c396f5eb0876627647e50d75dc4d93e5",
+    "sha256_file": "amazon-corretto-8.242.08.2-macosx-x64.pkg.sha256",
+    "sha512": "1f37a65b3359e659b3f11183314201f5a0c5fad2a4c71a53af4e58db072de44114be7ccc2be406ef2e70d0499dad8d50b64dcddffa038eb6fdefb039dadc9f0c",
+    "sha512_file": "amazon-corretto-8.242.08.2-macosx-x64.pkg.sha512",
+    "url": "https://corretto.aws/downloads/resources/8.242.08.2/amazon-corretto-8.242.08.2-macosx-x64.pkg",
+    "version": "8.242.08.2"
+  },
+  {
+    "arch": "x64",
+    "archive_type": "tar.gz",
+    "filename": "amazon-corretto-8.242.08.2-macosx-x64.tar.gz",
+    "md5": "1eed08b1ef98346d1120a0f16375e63b",
+    "md5_file": "amazon-corretto-8.242.08.2-macosx-x64.tar.gz.md5",
+    "os": "macosx",
+    "sha1": "2041edc2d6ea0589d244ba5bea3d5b818d6d028f",
+    "sha1_file": "amazon-corretto-8.242.08.2-macosx-x64.tar.gz.sha1",
+    "sha256": "7405eae8a4258c75a231b83d917ac115b063467968d5ce9c194395169a8f06ef",
+    "sha256_file": "amazon-corretto-8.242.08.2-macosx-x64.tar.gz.sha256",
+    "sha512": "19148136f985850dd5cc1decd7fd0f2fb7f2b731e388d1c3fff79a12ab1708ced382ca968d13bc43a5251f001543b44099857178df61d538f6b5df8a24a5e3fd",
+    "sha512_file": "amazon-corretto-8.242.08.2-macosx-x64.tar.gz.sha512",
+    "url": "https://corretto.aws/downloads/resources/8.242.08.2/amazon-corretto-8.242.08.2-macosx-x64.tar.gz",
+    "version": "8.242.08.2"
   }
 ]
