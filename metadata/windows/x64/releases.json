@@ -177,6 +177,22 @@
 {
   "arch": "x64",
   "archive_type": "msi",
+  "filename": "amazon-corretto-11.0.7.10.1-windows-x64.msi",
+  "md5": "5dd828ed76c0202854b5845646021c76",
+  "md5_file": "amazon-corretto-11.0.7.10.1-windows-x64.msi.md5",
+  "os": "windows",
+  "sha1": "5d2bbe121e6d7ade46c68358ec26e4a7ba498281",
+  "sha1_file": "amazon-corretto-11.0.7.10.1-windows-x64.msi.sha1",
+  "sha256": "ce8ebec7325e5c074186083f224712e913eb6d20c02cab620fcd072e5b8f9628",
+  "sha256_file": "amazon-corretto-11.0.7.10.1-windows-x64.msi.sha256",
+  "sha512": "c8b36a8ba441de28b5d88148afa5bfe5d18e946bb6044d057ccf21f7f728c82b25a5104c03f643e866c8e00b23735b42abba569ad50390039cb123417b5540cf",
+  "sha512_file": "amazon-corretto-11.0.7.10.1-windows-x64.msi.sha512",
+  "url": "https://corretto.aws/downloads/resources/11.0.7.10.1/amazon-corretto-11.0.7.10.1-windows-x64.msi",
+  "version": "11.0.7.10.1"
+}
+{
+  "arch": "x64",
+  "archive_type": "msi",
   "filename": "amazon-corretto-8.202.08.2-windows-x64.msi",
   "md5": "aadbc3c8010439b55cbbc740374edc21",
   "md5_file": "amazon-corretto-8.202.08.2-windows-x64.msi.md5",
@@ -237,4 +253,20 @@
   "sha512_file": "amazon-corretto-8.242.07.1-windows-x64.msi.sha512",
   "url": "https://corretto.aws/downloads/resources/8.242.07.1/amazon-corretto-8.242.07.1-windows-x64.msi",
   "version": "8.242.07.1"
+}
+{
+  "arch": "x64",
+  "archive_type": "msi",
+  "filename": "amazon-corretto-8.252.09.1-windows-x64.msi",
+  "md5": "43e17c2a75d2e21969385deaec44b702",
+  "md5_file": "amazon-corretto-8.252.09.1-windows-x64.msi.md5",
+  "os": "windows",
+  "sha1": "5e30afab8e130d347367fb63c85fa709b5225f26",
+  "sha1_file": "amazon-corretto-8.252.09.1-windows-x64.msi.sha1",
+  "sha256": "fc472712675f288292ae0df885e0abeeb4566d7c17b3f6caf5649c75a9efde16",
+  "sha256_file": "amazon-corretto-8.252.09.1-windows-x64.msi.sha256",
+  "sha512": "a18fe3b2b1f4c7fc29f63372ebe912f8e65109a043b4692a8e1ec5b1d4fd0a3d15e2c3e415f6c6a9bf9d4b915289ba930d916bc3008542546fe0265b36f8e65b",
+  "sha512_file": "amazon-corretto-8.252.09.1-windows-x64.msi.sha512",
+  "url": "https://corretto.aws/downloads/resources/8.252.09.1/amazon-corretto-8.252.09.1-windows-x64.msi",
+  "version": "8.252.09.1"
 }
