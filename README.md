@@ -1,3 +1,7 @@
+# Deprecated: See joschi/java-metadata for a replacement
+
+----
+
 # Amazon Corretto Release Metadata
 
 ![Update release metadata](https://github.com/joschi/corretto-metadata/workflows/Update%20release%20metadata/badge.svg)
